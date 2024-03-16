@@ -15,4 +15,4 @@ _length_: The number of characters to extract from the left side of the string.
 LEFT(name, 1)
 ```
 
-suppose the column `name` has `sql` value, then the sql query below will produce `**_s_**` only value
+suppose the column `name` has `sql` value, then the sql query below will produce `s` only value
