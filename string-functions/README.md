@@ -8,7 +8,7 @@ Extracts a specified number of characters from the left side of a string.
 LEFT(string, length)
 ```
 
-_string_: The string from which column to be extracted.
+_string_: The string from which column to be extracted.\
 _length_: The number of characters to extract from the left side of the string.
 
 ```sql
