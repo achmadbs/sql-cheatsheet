@@ -12,4 +12,4 @@ SELECT
 FROM Person
 ```
 
-In that case ROW_NUMBER() will assign row_number(1, 2, 3) to each row in the result set.
+In that case ROW_NUMBER() will assign `row_number` **(1, 2, 3)** to each row in the result set.
